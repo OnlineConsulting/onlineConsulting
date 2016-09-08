@@ -1,7 +1,6 @@
 {
   "name": "online-consulting",
   "description": "online consulting ui component",
-  "main": "index.js",
   "authors": [
     ""
   ],
