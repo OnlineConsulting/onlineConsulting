@@ -1,0 +1,24 @@
+{
+  "name": "online-consulting",
+  "version": "1.0.0",
+  "description": "online consulting ui component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OnlineConsulting/onlineConsulting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnlineConsulting/onlineConsulting/issues"
+  },
+  "homepage": "https://github.com/OnlineConsulting/onlineConsulting#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "require-dir": "^0.3.0"
+  }
+}

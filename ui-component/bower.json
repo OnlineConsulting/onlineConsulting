@@ -1,0 +1,26 @@
+{
+  "name": "online-consulting",
+  "description": "online consulting ui component",
+  "main": "index.js",
+  "authors": [
+    ""
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/OnlineConsulting/onlineConsulting",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.6.3",
+    "jquery-ui": "^1.12.0",
+    "underscore": "^1.8.3"
+  }
+}
