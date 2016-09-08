@@ -1,5 +1,6 @@
 # onlineConsulting
 
+UI-Component set up 
 
 1. install nodejs 
 2. npm install -g gulp (if see error add sudo ahead) 
