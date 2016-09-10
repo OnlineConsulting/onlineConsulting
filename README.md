@@ -7,3 +7,4 @@ UI-Component set up
 3. npm install -g bower (if see error add sudo ahead) 
 4. go to ui-component folder 
 5. npm install
+
